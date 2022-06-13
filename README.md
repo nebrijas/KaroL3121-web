@@ -16,3 +16,14 @@ En este [enlace](https://prodavinci.com/naturalezaenllamas/index.html?home) se a
 #### Interés
 
 > Las áreas protegidas no solo enfrentan el peligro de la acción directa del hombre, sino que también sus actos indirectos, como pueden ser los incendios forestales.  Ante esta situación es importante reforzar la conciencia ambiental en este tema.
+
+Cuando se habla de incendios forestales hay que tomar en cuenta las razones directas ocasionadas por el hombre, como la quema de terrenos para la ganadería y la agricultura. Sin embargo, hay otras indirectas como las generadas por el cambio climático y la deforestación constante. El resto pueden tener como génesis causas naturales: los rayos y demás fenómenos atmosféricos.
+
+En el caso de Venezuela, no se puede subestimar sus afectaciones, considerando que forma parte de la región Amazónica.
+
+Además, lo sucedido en esta zona es el reflejo de lo que podrían experimentar otras zonas forestales de América, con una geografía similar.
+
+
+![Parajes incendiados](https://prodavinci.com/naturalezaenllamas/morros.jpeg  "Vista de los parajes incendiados.")
+
+##### Vista general de un paraje venezolano incendiado. Foto: Naturaleza en Llamas
