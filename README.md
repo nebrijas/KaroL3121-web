@@ -1,4 +1,4 @@
-# Actividad Dirigida 1
+# Ajustes a la Actividad Dirigida 1
 
 Esta actividad consiste en el análisis de la visualización de datos de un reportaje ambiental.
 
@@ -27,3 +27,11 @@ Además, lo sucedido en esta zona es el reflejo de lo que podrían experimentar 
 ![Parajes incendiados](https://prodavinci.com/naturalezaenllamas/morros.jpeg  "Vista de los parajes incendiados.")
 
 ##### Vista general de un paraje venezolano incendiado. Foto: Naturaleza en Llamas
+
+### Enlaces a las actividades
+
+[Actividad dirigida 1 de PD2](https://github.com/nebrijas/KaroL3121-web/blob/main/README.md)
+[Actividad dirigida 2 de PD2](https://github.com/nebrijas/KaroL3121-web/blob/main/ad2.md)
+
+
+
