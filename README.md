@@ -3,13 +3,13 @@
 
 ### Actividades Dirigidas asignadas en el curso
 
-1. [Actividad dirigida 1 de PD2](https://github.com/nebrijas/KaroL3121-web/blob/main/ad1.md)
+1. [Actividad dirigida 1 de PD2](ad1.md)
 
-2. [Actividad dirigida 2 de PD2](https://github.com/nebrijas/KaroL3121-web/blob/main/ad2.md)
+2. [Actividad dirigida 2 de PD2](ad2.md)
 
-3. [Actividad dirigida 3 de PD2](https://github.com/nebrijas/KaroL3121-web/blob/main/ad3.md)
+3. [Actividad dirigida 3 de PD2](ad3.md)
 
-4. [Actividad dirigida 4 de PD2](https://github.com/nebrijas/KaroL3121-web/blob/main/api-covid-pandas.md)
+4. [Actividad dirigida 4 de PD2](api-covid-pandas.md)
 
 
 ###  Ejercicio final de Programación Literaria/ Aprendizaje durante la asignatura
