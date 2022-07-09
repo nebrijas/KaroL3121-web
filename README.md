@@ -7,7 +7,9 @@
 
 2. [Actividad dirigida 2 de PD2](https://github.com/nebrijas/KaroL3121-web/blob/main/ad2.md)
 
-3. [Actividad dirigida 3 de PD2](https://github.com/nebrijas/KaroL3121-web/blob/main/ad3.ipynb)
+3. [Actividad dirigida 3 de PD2](https://github.com/nebrijas/KaroL3121-web/blob/main/ad3.md)
+
+4. [Actividad dirigida 4 de PD2](https://github.com/nebrijas/KaroL3121-web/blob/main/api-covid-pandas.md)
 
 
 ###  Ejercicio final de Programación Literaria/ Aprendizaje durante la asignatura
