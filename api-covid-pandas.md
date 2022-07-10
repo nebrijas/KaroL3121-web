@@ -8,7 +8,7 @@ import pandas as pd
 ```
 
 ### Casos globales de la Covid19
-
+Establezco una variable con el valor de la url.
 
 ```python
 url = 'https://api.covid19api.com/countries'
@@ -24,6 +24,8 @@ url
 
     'https://api.covid19api.com/countries'
 
+### Creo el dataframe
+Creamos un dataframe con la función de panda. Luego definimos el dataframe, la estructura de tablas/datos en Phyton y emplearemos la funcion de pd.read_json. Si lo llamo me sale el json en formato de tabla.
 
 
 
@@ -136,7 +138,8 @@ df
 
 
 
-### Datos de la covid19 en España
+### Datos de la covid19 en España 
+Para que me salgan los datos de España creo una lista nueva donde le indico que el país que voy a seleccionar es == a Spain. Esto gracias a que tengo una lista que se llama Country.
 
 
 ```python
@@ -181,6 +184,7 @@ df[df['Country'] == 'Spain']
 </div>
 
 
+Procedo a buscar los datos de España en tiempo real para lo que defino una url que se llama rt (de real time). También creo el objeto df_rt_es, el cual leerá la información de la url.
 
 
 ```python
@@ -381,7 +385,8 @@ df_rt_es
 
 
 
-#### Casos de España de la parte superior de la tabla de datos
+#### Casos de España de la parte superior de la tabla de datos 
+Esta visualización se logra colocando df_rt_es.head()
 
 
 ```python
@@ -494,6 +499,7 @@ df_rt_es.head()
 
 
 #### Casos de España de la parte superior de la tabla de datos
+Esta visualización se logra colocando df_rt_es.tail()
 
 
 ```python
@@ -606,6 +612,7 @@ df_rt_es.tail()
 
 
 ### Visualización de los casos de covid-19 en España
+Para visualizar los casos y fechas de España en una gráfica convierto a fecha en columna de control, estableciendo el tiempo específico que deseo saber, en este caso del 1 de enero de 2020 al 30 de junio de 2022. En esta etapa uso la variable plot_rt_es.
 
 
 ```python
@@ -836,6 +843,7 @@ casos_es.plot(title='Casos de Covid19 en España')
 
 
 ### Casos de Covid19 de Panamá
+Repetimos el mismo proceso, solo que debemos tener cuidado que los datos sean los de Panamá.
 
 
 ```python
@@ -1062,6 +1070,7 @@ casos_pa.plot(title='Casos de Covid19 en Panamá')
 
 
 ### Ploteamos los países
+Es necesario colocar las variables que ya hemos definido para no tener que repetir todo el proceso.
 
 
 ```python
@@ -1262,6 +1271,7 @@ pa_vs_es
 
 
 ### Gráfica comparativa de los casos de Covid19 en España y Panamá
+Ya hemos ploteado los indicadores de ambos países, en primera instacia colocando los casos y luego estableciendo el nombre. Con ellos las líneas de cada país se pueden indentificar con mayor facilidad.
 
 
 ```python
@@ -1282,6 +1292,7 @@ pa_vs_es.plot(title='Comparativa Covid19 España y Panamá')
 
 
 ### Comparativa de casos entre Costa Rica y Panamá
+Repetimos nuevamente los pasos, pero en esta ocasión con Costa Rica, con la finalidad de comparar el comportamiento de la pandemia.
 
 
 ```python
@@ -1507,6 +1518,8 @@ pa_vs_cr.plot(title='Comparativa Covid19 Costa Rica y Panamá')
 
 
 ### Comparativa con Centroamérica
+Los pasos vuelven a ponerse en práctica, pero en esta ocasión con el resto de los países de la región. Es importante cambiar los países para no colocar el de otros y que haya errores.
+
 -Panamá
 
 -Costa Rica
@@ -2422,6 +2435,7 @@ pa_vs_sal.plot(title='Comparativa Covid19 El Salvador y Panamá')
 
 
 #### Comportamiento de la Covid19 en Centro América
+Adicional a repetir los pasos, al momento de generar la gráfica final es importante agrupar los contenidos con concatenación y darles un nombre sencillo. En este caso ca incluye los seis países.
 
 
 ```python
