@@ -498,7 +498,7 @@ df_rt_es.head()
 
 
 
-#### Casos de España de la parte superior de la tabla de datos
+#### Casos de España de la parte inferior de la tabla de datos
 Esta visualización se logra colocando df_rt_es.tail()
 
 
@@ -2435,7 +2435,7 @@ pa_vs_sal.plot(title='Comparativa Covid19 El Salvador y Panamá')
 
 
 #### Comportamiento de la Covid19 en Centro América
-Adicional a repetir los pasos, al momento de generar la gráfica final es importante agrupar los contenidos con concatenación y darles un nombre sencillo. En este caso ca incluye los seis países.
+Adicional a repetir los pasos, al momento de generar la gráfica final es importante agrupar los contenidos con concatenación y darles un nombre sencillo. En este caso **ca** incluye los seis países.
 
 
 ```python
